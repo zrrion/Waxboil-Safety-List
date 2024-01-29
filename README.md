@@ -2,7 +2,7 @@
 
 This is a list of switches where their suitibility for waxboiling is known. Just because it is on this list does not mean all variations of the switch are boil safe, if there's any doubt do a test using a spare switch.
 
-**Switch type** | **Switch part** | **safety info**
+**Switch type** | **Switch part** | **Safety info**
 --|--|--
 **mitsumi type 1 (KAM)** | top housing | safe to boil
 | | slider | safe to boil

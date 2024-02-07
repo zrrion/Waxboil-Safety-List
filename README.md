@@ -57,3 +57,6 @@ This is a list of switches where their suitibility for waxboiling is known. Just
 **Omron Alps clones** | top housing     | safe to boil
 | | slider          | safe to boil
 | | bottom housing  | safe to boil
+**Omron B3GS** | top housing     | safe to boil
+| | slider          | safe to boil
+| | bottom housing  | safe to boil

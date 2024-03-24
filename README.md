@@ -60,3 +60,12 @@ This is a list of switches where their suitibility for waxboiling is known. Just
 **Omron B3GS** | top housing     | safe to boil
 | | slider          | safe to boil
 | | bottom housing  | safe to boil
+**Marquardt Butterfly** | top housing     | safe to boil
+| | black slider          | safe to boil
+| | grey slider          | unknown
+| | white slider          | unknown
+| | bottom housing  | safe to boil
+| | double action bottom housing  | unknown
+| | 3 switch assembly top housing | unknown
+| | 3 switch assembly bottom housing | unknown
+| | assorted multi-switch/latching parts | unknown
